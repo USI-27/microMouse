@@ -1,4 +1,4 @@
-# MicroMouse Robot Project
+# MicroMouse  Project
 
 This project implements a micromouse robot using a Raspberry Pi Pico W microcontroller. The robot is designed to solve a maze using the flood fill algorithm, with advanced motion control, wall detection, and a custom-designed PCB.
 
